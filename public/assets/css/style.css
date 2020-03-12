@@ -1,0 +1,42 @@
+/* li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+} */
+
+.col-sd {
+  padding: 20px;
+  /* margin: 20px; */
+}
+
+#burger {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+  max-height: 200px;
+  margin-top: -70px;
+}
+
+.jumbotron {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#title {
+  margin-bottom: -35px;
+}
